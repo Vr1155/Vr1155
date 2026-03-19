@@ -36,4 +36,4 @@ HPC | SLURM | Distributed Systems
 ---
 
 ## 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/vaibhav-ranashoor/) | [Email] (vaibhavvinayranashoor@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/vaibhav-ranashoor/) | [Email](mailto:vaibhavvinayranashoor@gmail.com)
